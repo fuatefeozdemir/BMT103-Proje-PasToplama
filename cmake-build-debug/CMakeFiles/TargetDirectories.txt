@@ -1,0 +1,3 @@
+C:/Users/PC/Desktop/BMT103-Proje-PasToplama/cmake-build-debug/CMakeFiles/BMT103_Proje_PasToplama.dir
+C:/Users/PC/Desktop/BMT103-Proje-PasToplama/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/Desktop/BMT103-Proje-PasToplama/cmake-build-debug/CMakeFiles/rebuild_cache.dir
